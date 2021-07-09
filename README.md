@@ -1,4 +1,4 @@
-# Face-Mask-Detection
+# Face Mask Detection
 Face Mask Detection Python programming language.
 
 Here are the results of the application:
